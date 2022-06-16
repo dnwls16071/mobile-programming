@@ -8,7 +8,7 @@
 기말고사 : 메모장 어플
 
 # Final Exams Project Outline
-12장의 내용을 베이스로 하여 기능을 구체화한 메모장입니다.
+12장의 내용을 베이스로 하여 기능을 좀 더 추가한 메모장입니다.
 
 # Function Explanation
 - 메모를 추가하면 ComposeViewController를 통해서 메모가 화면에 보여지도록 구현
