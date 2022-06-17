@@ -9,7 +9,7 @@
 
 # Final Exams Project Outline
 - 12장의 테이블 뷰와 6장에서 배웠던 Alert기능을 이용해서 만든 어플입니다. 
-- iOS Core Data와 UI를 결합하여 제작한 어플입니다.
+- iOS Core Data와 UI를 이용하여 제작한 어플입니다.
 
 # Function Explanation
 - 메모를 추가하면 ComposeViewController를 통해서 아래와 같이 메모가 화면에 나타나도록 만들었습니다.
