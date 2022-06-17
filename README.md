@@ -11,10 +11,8 @@
 - 12장의 테이블 뷰와 6장에서 배웠던 Alert기능을 이용해서 만든 어플입니다. 
 
 # Function Explanation
-- 메모를 추가하면 ComposeViewController를 통해서 아래와 같이 메모가 화면에 나타나도록 만들었습니다.
+- 메모를 추가하면 ComposeViewController를 통해서 메모가 화면에 표시되도록 만들었습니다.
 - 메모가 화면에 보여질때 DetailViewController에서 DateFormatter를 작성해서 화면에 지정된 형식의 날짜와 시간이 표시되도록 만들었습니다.
-- <img src = "https://user-images.githubusercontent.com/106802375/174202699-6c83e73d-93b2-4984-b8cf-a54dad4d2b77.png" width="30%" height="30%">
-
 - DataManager라는 새로운 클래스를 만들어 메모를 추가, 삭제, 저장할 수 있는 기능을 각각 구현했습니다.
 - 메모를 작성해서 저장한 다음 메모 내용을 클릭하면 하단에 표시되어있는 메모 삭제, 메모 편집, 메모 공유 기능을 사용할 수 있습니다.
 - <메모 삭제 화면>
