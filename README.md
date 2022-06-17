@@ -19,8 +19,11 @@
 - DataManager라는 클래스를 MemoListTableViewController.swift에 적용하여 간편하게 코드를 작성
 - 메모를 작성한 후에 왼쪽부터 하단에 표시되어있는 삭제, 편집, 공유 버튼을 추가하여 각각의 기능을 구현
 - ![메모 삭제](https://user-images.githubusercontent.com/106802375/174202890-115db7b8-9bc4-43d6-8443-e76ceb6224bd.png)
+- <메모 삭제 화면>
 - ![메모 편집](https://user-images.githubusercontent.com/106802375/174202894-c908881a-94e4-475c-8f34-fa92d345bc0a.png)
+- <메모 편집 화면>
 - ![메모 공유](https://user-images.githubusercontent.com/106802375/174202922-f9618bc0-1c0e-4d3f-b4b2-5c140b02e05c.png)
+- <메모 공유 화면>
 
 # Takeaway
 - 이번 기말고사 프로젝트를 통해서 수업시간에 자세하게 배우지 못했던 문법(ex. class, struct, extension 등을 공부할 수 있었고 iOS 앱 개발에 이용되는 iOS Core Data가 어떤 것인지 알 수 있었습니다.
