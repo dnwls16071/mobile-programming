@@ -8,7 +8,7 @@
 기말고사 : 메모장 어플
 
 # Final Exams Project Outline
-- 12장의 테이블 뷰에서 배운 내용과 중간고사 범위에 포함되어있었던 Alert기능을 활용하였고 Class와 Extension, struct, CoreData, UI를 결합한 메모장을 만들었습니다.
+- 12장의 테이블 뷰에서 배운 내용과 중간고사 범위에 포함되어있었던 Alert기능을 활용하였고 Class와 Extension, Struct, Core Data, UI를 결합한 메모장을 만들었습니다.
 
 # Function Explanation
 ![메모 저장](https://user-images.githubusercontent.com/106802375/174202699-6c83e73d-93b2-4984-b8cf-a54dad4d2b77.png)
@@ -24,3 +24,4 @@
 
 # Takeaway
 - 이번 기말고사 프로젝트를 통해서 수업시간에 자세하게 배우지 못했던 문법(ex. class, struct, extension 등을 공부할 수 있었고 iOS 앱 개발에 이용되는 iOS Core Data가 어떤 것인지 알 수 있었습니다.
+- 프로그래밍에 대해서 배운 내용이나 스스로 만든 포트폴리오를 올리면서 자신의 가치를 높일 수 있도록 관리해야한다는 것을 알 수 있었습니다.
